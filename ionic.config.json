@@ -1,0 +1,7 @@
+{
+  "name": "asistencia-margil",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
